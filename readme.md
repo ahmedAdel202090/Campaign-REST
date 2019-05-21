@@ -8,6 +8,13 @@
 
 ## Running
 <p align="center">To Run this Code by Using API for Creating Campaign and UI to figure out chart</p>
-<p><b>APIs</b>:
-...-Create new Campaign with body <img src="https://drive.google.com/file/d/1wPT92Vbr9x7yoNsWK_ZzkFwCH4LLWGmg">
-    the API path curl:<b>{host-name}/public/campaign/create</b></p>
+<p><b>APIs</b>:<br/>
+  -Create new Campaign with body {
+    "name":{"campaign-name"},
+    "country":{"campaign-country"},
+    "budget":{"campaign-budget"},
+    "goal":{"campaign-goal"},
+    "category":{"campaign-category"}//optional choice
+
+    }
+      the API path curl:<b>{host-name}/public/campaign/create</b></p>
