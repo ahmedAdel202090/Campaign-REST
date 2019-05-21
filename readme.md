@@ -5,7 +5,12 @@
 - after cloning project go to project path and run this command <b>composer install</b>
 - create database and put its name in .env file to DB_DATABASE
 - Run this command <b>php artisan migrate</b>
+
+
 <p align="center">To Run this Code by Using API for Creating Campaign and UI to figure out chart</p>
+
+
+
 ## Running
 - `Create new Campaign with body [POST]` <b>{<br/>
 "name":{"campaign-name"},<br/>
