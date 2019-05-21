@@ -9,11 +9,11 @@
 ## Running
 <p align="center">To Run this Code by Using API for Creating Campaign and UI to figure out chart</p>
 <p><b>APIs</b>:<br/>
-  -Create new Campaign with body {<br/>
+  -Create new Campaign with body `{<br/>
     "name":{"campaign-name"},<br/>
     "country":{"campaign-country"},<br/>
     "budget":{"campaign-budget"},<br/>
     "goal":{"campaign-goal"},<br/>
     "category":{"campaign-category"}//optional choice<br/>
-    }<br/>
-      'the API path curl:'<b>{host-name}/public/campaign/create</b></p>
+    }<br/>`
+      the API path curl:<b>{host-name}/public/campaign/create</b></p>
