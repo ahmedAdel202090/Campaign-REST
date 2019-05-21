@@ -16,4 +16,4 @@
     "goal":{"campaign-goal"},<br/>
     "category":{"campaign-category"}//optional choice<br/>
     }<br/>'
-      the API path curl:<b>{host-name}/public/campaign/create</b></p>
+      'the API path curl:'<b>{host-name}/public/campaign/create</b></p>
