@@ -23,3 +23,8 @@
 the API path curl:<b>{host-name}/public/campaign/create</b>
 - `get the campaigns data with dimensions related to draw chart [GET]` <br/> curl:<b>{host-name}/public/campaign/get?x={dimensionX}&&y={dimensionY}</b>
 
+
+<b>Drawing Chart UI:</b><br/>
+
+-go directly to path `{host-name}/public/campaign/chart`
+
