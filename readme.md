@@ -26,5 +26,5 @@ the API path curl:<b>{host-name}/public/campaign/create</b>
 
 <b>Drawing Chart UI:</b><br/>
 
--go directly to path `{host-name}/public/campaign/chart`
+- go directly to path `{host-name}/public/campaign/chart`
 
