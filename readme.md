@@ -17,3 +17,9 @@
     "category":{"campaign-category"}//optional choice<br/>
     }<br/>
       `the API path curl`:<b>{host-name}/public/campaign/create</b></p>
+      
+    | Tables        | Are           | Cool  |
+    | ------------- |:-------------:| -----:|
+    | col 3 is      | right-aligned | $1600 |
+    | col 2 is      | centered      |   $12 |
+    | zebra stripes | are neat      |    $1 |
